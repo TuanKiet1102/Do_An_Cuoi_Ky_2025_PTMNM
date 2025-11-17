@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":false,"name":"The Ashen Grave-garden","order":1,"parentId":0,"scrollX":811,"scrollY":992},
+{"id":2,"expanded":false,"name":"Village House 1F","order":2,"parentId":1,"scrollX":1638,"scrollY":896},
+{"id":3,"expanded":false,"name":"Bên Ngoài Nghĩa Trang","order":3,"parentId":0,"scrollX":3030,"scrollY":1520},
+{"id":4,"expanded":false,"name":"Hang Động","order":4,"parentId":3,"scrollX":1638,"scrollY":896},
+{"id":5,"expanded":true,"name":"Cánh Đồng","order":5,"parentId":0,"scrollX":3170,"scrollY":1812},
+{"id":6,"expanded":false,"name":"Ngôi Làng Bị Lãng Quên","order":6,"parentId":5,"scrollX":1622,"scrollY":1024},
+{"id":7,"expanded":true,"name":"Làng ASHEN","order":8,"parentId":0,"scrollX":2458,"scrollY":880},
+{"id":8,"expanded":true,"name":"Cửa Hàng Vật Phẩm","order":9,"parentId":7,"scrollX":819,"scrollY":448},
+{"id":9,"expanded":false,"name":"Nhà Trọ F1","order":10,"parentId":7,"scrollX":811,"scrollY":512},
+{"id":10,"expanded":false,"name":"Nhà Trọ F2","order":11,"parentId":9,"scrollX":1638,"scrollY":896},
+{"id":11,"expanded":false,"name":"Cửa Hàng Vũ Khí","order":12,"parentId":7,"scrollX":819,"scrollY":448},
+{"id":12,"expanded":false,"name":"Cửa Hàng Cửa Hàng Giáp","order":13,"parentId":7,"scrollX":832,"scrollY":640},
+{"id":13,"expanded":false,"name":"Đồng đội","order":7,"parentId":6,"scrollX":1638,"scrollY":896}
+]
